@@ -1,0 +1,401 @@
+Student_ID,Branch,CGPA,10th_Percentage,12th_Percentage,Internship,Skills,Company,Package,Placed
+STU1001,Electronics & Comm.,8.27,75.2,79.4,No,Data Analytics,TCS Digital,9.25,Yes
+STU1002,Computer Science,8.07,77.9,75.1,Yes,Java & Spring,Accenture,7.21,Yes
+STU1003,Electronics & Comm.,7.45,74.4,71.3,No,IoT & Python,Not Placed,0.0,No
+STU1004,Computer Science,7.44,69.2,66.5,Yes,Cloud & DevOps,TCS Digital,10.01,Yes
+STU1005,Information Technology,8.46,81.0,82.4,Yes,Data Analytics,L&T Infotech,7.06,Yes
+STU1006,Computer Science,6.4,66.6,63.9,No,Machine Learning,Not Placed,0.0,No
+STU1007,Computer Science,6.71,62.2,57.7,Yes,Python & DSA,L&T Infotech,9.49,Yes
+STU1008,Information Technology,7.44,67.9,74.4,No,Python & DSA,Wipro,4.76,Yes
+STU1009,Mechanical,7.44,68.5,65.2,Yes,Automation,Cognizant GenC,7.17,Yes
+STU1010,Information Technology,8.58,77.2,73.9,Yes,Cloud & DevOps,Adobe,22.77,Yes
+STU1011,Information Technology,8.13,77.3,69.1,Yes,Full Stack Web,Infosys (Specialist),9.45,Yes
+STU1012,Mechanical,7.05,65.6,71.8,No,Automation,Not Placed,0.0,No
+STU1013,Mechanical,9.15,89.1,84.7,Yes,Core Mechanical,Adobe,13.9,Yes
+STU1014,Computer Science,7.09,73.0,68.9,No,Python & DSA,Not Placed,0.0,No
+STU1015,Mechanical,6.93,67.1,58.9,No,Automation,Not Placed,0.0,No
+STU1016,Civil,9.58,92.2,88.0,Yes,Project Planning,Cognizant GenC,7.32,Yes
+STU1017,Computer Science,6.99,69.2,68.7,No,Java & Spring,Not Placed,0.0,No
+STU1018,Electronics & Comm.,8.26,79.1,72.7,No,Java Core,Infosys (Specialist),11.11,Yes
+STU1019,Electronics & Comm.,6.76,63.0,64.6,No,Data Analytics,Not Placed,0.0,No
+STU1020,Information Technology,7.41,64.6,68.9,No,Full Stack Web,TCS Ninja,4.56,Yes
+STU1021,Computer Science,7.65,70.6,70.6,Yes,Machine Learning,Infosys (Specialist),8.97,Yes
+STU1022,Electronics & Comm.,8.47,77.4,77.5,Yes,Embedded Systems,TCS Digital,9.62,Yes
+STU1023,Information Technology,5.54,55.0,53.1,No,Full Stack Web,Not Placed,0.0,No
+STU1024,Information Technology,6.24,56.3,53.1,Yes,Java & Spring,Infosys (Specialist),7.53,Yes
+STU1025,Computer Science,8.45,84.6,78.4,Yes,Java & Spring,TCS Digital,11.33,Yes
+STU1026,Civil,7.79,73.8,67.7,Yes,AutoCAD & Revit,L&T Construction,8.44,Yes
+STU1027,Computer Science,7.66,71.8,76.9,No,Java & Spring,Capgemini,9.95,Yes
+STU1028,Computer Science,6.56,63.3,60.9,No,Python & DSA,Not Placed,0.0,No
+STU1029,Computer Science,5.2,55.0,52.0,No,Full Stack Web,Not Placed,0.0,No
+STU1030,Computer Science,9.39,88.1,92.6,Yes,Java & Spring,L&T Infotech,6.45,Yes
+STU1031,Electronics & Comm.,6.52,59.1,62.4,No,C++ & VLSI,Not Placed,0.0,No
+STU1032,Information Technology,6.96,63.9,67.6,Yes,Java & Spring,L&T Infotech,11.49,Yes
+STU1033,Civil,8.08,73.9,80.4,No,Structural Analysis,Tata Motors,6.25,Yes
+STU1034,Information Technology,6.38,64.3,59.1,No,Cloud & DevOps,Not Placed,0.0,No
+STU1035,Computer Science,6.05,55.0,52.0,Yes,Java & Spring,Not Placed,0.0,No
+STU1036,Computer Science,7.25,67.0,69.3,No,Java & Spring,Tech Mahindra,3.88,Yes
+STU1037,Civil,8.88,88.3,75.3,Yes,Structural Analysis,Schneider Electric,6.71,Yes
+STU1038,Information Technology,7.83,79.0,77.7,Yes,Data Analytics,L&T Infotech,9.04,Yes
+STU1039,Information Technology,8.41,85.1,84.0,Yes,Data Analytics,Infosys (Specialist),9.75,Yes
+STU1040,Electronics & Comm.,6.55,66.7,66.9,No,IoT & Python,Not Placed,0.0,No
+STU1041,Mechanical,9.38,93.7,79.6,No,Core Mechanical,Accenture,10.41,Yes
+STU1042,Mechanical,7.72,76.8,65.5,No,Data Analytics,Not Placed,0.0,No
+STU1043,Computer Science,7.9,72.7,76.8,Yes,Python & DSA,Capgemini,7.06,Yes
+STU1044,Information Technology,9.29,85.6,87.4,Yes,Cloud & DevOps,Amazon,13.38,Yes
+STU1045,Civil,8.62,79.1,73.8,Yes,Project Planning,TCS Digital,8.12,Yes
+STU1046,Electronics & Comm.,7.35,63.8,73.6,No,IoT & Python,Wipro,4.15,Yes
+STU1047,Civil,8.75,85.1,75.2,No,Core Civil,Schneider Electric,5.8,Yes
+STU1048,Electronics & Comm.,6.72,65.8,60.1,No,IoT & Python,Not Placed,0.0,No
+STU1049,Electronics & Comm.,6.96,60.1,61.0,No,Data Analytics,Not Placed,0.0,No
+STU1050,Electronics & Comm.,6.88,67.5,63.5,No,IoT & Python,Not Placed,0.0,No
+STU1051,Electronics & Comm.,7.06,68.5,59.3,No,IoT & Python,Not Placed,0.0,No
+STU1052,Electronics & Comm.,7.52,65.7,65.6,Yes,Embedded Systems,Accenture,8.28,Yes
+STU1053,Electronics & Comm.,7.98,75.7,69.8,No,Embedded Systems,TCS Digital,10.28,Yes
+STU1054,Computer Science,7.97,75.3,74.1,No,Python & DSA,Accenture,6.73,Yes
+STU1055,Information Technology,6.02,55.0,59.0,Yes,Cloud & DevOps,Not Placed,0.0,No
+STU1056,Information Technology,8.4,75.7,82.3,Yes,Python & DSA,Capgemini,7.53,Yes
+STU1057,Mechanical,6.59,61.9,63.6,Yes,Core Mechanical,Not Placed,0.0,No
+STU1058,Computer Science,6.82,61.6,65.5,No,Python & DSA,Not Placed,0.0,No
+STU1059,Information Technology,6.8,59.3,67.2,Yes,Cloud & DevOps,Capgemini,6.11,Yes
+STU1060,Mechanical,6.29,65.1,55.0,No,Data Analytics,Not Placed,0.0,No
+STU1061,Information Technology,7.21,73.3,66.2,Yes,Java & Spring,TCS Digital,8.14,Yes
+STU1062,Electronics & Comm.,7.93,79.4,78.8,No,Data Analytics,TCS Digital,10.99,Yes
+STU1063,Electronics & Comm.,7.16,67.2,71.0,Yes,C++ & VLSI,Accenture,7.8,Yes
+STU1064,Information Technology,6.22,56.4,63.5,Yes,Full Stack Web,Accenture,6.11,Yes
+STU1065,Information Technology,8.42,81.8,81.4,Yes,Full Stack Web,Infosys (Specialist),7.1,Yes
+STU1066,Computer Science,7.73,75.5,72.0,Yes,Cloud & DevOps,Cognizant GenC,6.92,Yes
+STU1067,Electronics & Comm.,7.39,74.0,74.5,Yes,Embedded Systems,Cognizant GenC,9.17,Yes
+STU1068,Civil,5.54,55.0,52.3,No,Structural Analysis,Not Placed,0.0,No
+STU1069,Computer Science,7.7,74.4,65.5,No,Python & DSA,Not Placed,0.0,No
+STU1070,Information Technology,6.45,61.3,57.1,No,Java & Spring,Not Placed,0.0,No
+STU1071,Computer Science,8.92,88.7,85.0,Yes,Java & Spring,Cognizant GenC,9.39,Yes
+STU1072,Civil,7.59,76.0,71.1,Yes,Structural Analysis,TCS Digital,7.53,Yes
+STU1073,Information Technology,7.4,72.3,65.8,Yes,Data Analytics,Infosys (Specialist),8.68,Yes
+STU1074,Information Technology,7.35,71.0,72.9,No,Cloud & DevOps,Infosys,3.63,Yes
+STU1075,Electronics & Comm.,5.55,55.0,53.1,No,Embedded Systems,Not Placed,0.0,No
+STU1076,Computer Science,7.7,70.8,72.0,Yes,Java & Spring,Cognizant GenC,8.34,Yes
+STU1077,Electronics & Comm.,6.57,59.7,57.0,Yes,IoT & Python,Cognizant GenC,6.66,Yes
+STU1078,Information Technology,7.45,67.4,68.3,No,Cloud & DevOps,Wipro,4.97,Yes
+STU1079,Mechanical,7.1,65.1,68.2,Yes,CAD & SolidWorks,L&T Infotech,7.61,Yes
+STU1080,Civil,6.21,55.0,52.0,No,Python Basics,Not Placed,0.0,No
+STU1081,Information Technology,7.54,76.9,69.1,No,Java & Spring,Accenture,6.41,Yes
+STU1082,Electronics & Comm.,7.99,76.7,70.8,No,Embedded Systems,L&T Infotech,10.2,Yes
+STU1083,Electronics & Comm.,7.6,72.5,69.2,Yes,Data Analytics,Accenture,7.68,Yes
+STU1084,Electronics & Comm.,6.01,62.5,52.0,Yes,Embedded Systems,Not Placed,0.0,No
+STU1085,Computer Science,7.6,66.2,69.2,Yes,Cloud & DevOps,TCS Digital,7.27,Yes
+STU1086,Electronics & Comm.,7.05,69.2,70.8,No,Data Analytics,Not Placed,0.0,No
+STU1087,Electronics & Comm.,8.46,80.9,79.9,No,IoT & Python,TCS Digital,6.33,Yes
+STU1088,Mechanical,5.7,59.2,52.0,No,Core Mechanical,Not Placed,0.0,No
+STU1089,Electronics & Comm.,8.61,81.7,73.3,Yes,Java Core,L&T Infotech,7.38,Yes
+STU1090,Computer Science,9.43,90.5,93.1,No,Cloud & DevOps,L&T Infotech,6.22,Yes
+STU1091,Electronics & Comm.,5.83,60.4,52.0,No,Java Core,Not Placed,0.0,No
+STU1092,Civil,6.29,57.6,52.3,Yes,Python Basics,Not Placed,0.0,No
+STU1093,Electronics & Comm.,6.77,68.1,63.0,No,C++ & VLSI,Not Placed,0.0,No
+STU1094,Computer Science,8.81,88.1,85.6,Yes,Java & Spring,TCS Digital,7.03,Yes
+STU1095,Information Technology,7.46,74.0,64.5,No,Data Analytics,Not Placed,0.0,No
+STU1096,Information Technology,7.22,74.3,67.9,Yes,Python & DSA,Cognizant GenC,9.03,Yes
+STU1097,Information Technology,9.9,98.5,90.5,Yes,Python & DSA,Capgemini,7.61,Yes
+STU1098,Electronics & Comm.,6.31,59.6,57.4,Yes,IoT & Python,Not Placed,0.0,No
+STU1099,Civil,5.2,55.0,52.0,No,Python Basics,Not Placed,0.0,No
+STU1100,Information Technology,7.6,66.2,73.1,No,Cloud & DevOps,Capgemini,8.69,Yes
+STU1101,Computer Science,6.42,61.6,59.7,Yes,Cloud & DevOps,Not Placed,0.0,No
+STU1102,Mechanical,8.21,76.6,80.5,Yes,Core Mechanical,Capgemini,11.02,Yes
+STU1103,Information Technology,9.35,90.6,81.1,No,Python & DSA,L&T Infotech,11.31,Yes
+STU1104,Information Technology,9.12,81.8,89.7,Yes,Python & DSA,Capgemini,11.33,Yes
+STU1105,Computer Science,7.57,73.4,68.2,Yes,Cloud & DevOps,Capgemini,10.73,Yes
+STU1106,Information Technology,6.69,66.7,66.8,Yes,Full Stack Web,Infosys (Specialist),9.47,Yes
+STU1107,Civil,9.22,86.8,79.2,No,AutoCAD & Revit,Capgemini,7.65,Yes
+STU1108,Computer Science,7.23,67.0,65.5,Yes,Machine Learning,L&T Infotech,9.75,Yes
+STU1109,Computer Science,8.08,75.4,76.9,Yes,Java & Spring,Infosys (Specialist),7.28,Yes
+STU1110,Electronics & Comm.,5.82,60.1,53.1,No,Data Analytics,Not Placed,0.0,No
+STU1111,Computer Science,6.45,62.3,61.3,Yes,Cloud & DevOps,Accenture,10.65,Yes
+STU1112,Computer Science,6.45,58.1,60.3,No,Cloud & DevOps,Not Placed,0.0,No
+STU1113,Computer Science,7.93,69.4,78.1,Yes,Python & DSA,L&T Infotech,10.1,Yes
+STU1114,Mechanical,8.96,81.9,86.7,Yes,Python Basics,Capgemini,10.22,Yes
+STU1115,Electronics & Comm.,7.72,74.9,64.6,No,Embedded Systems,L&T Infotech,8.01,Yes
+STU1116,Computer Science,8.22,77.1,71.4,Yes,Cloud & DevOps,L&T Infotech,8.76,Yes
+STU1117,Computer Science,8.65,87.5,86.1,Yes,Cloud & DevOps,Accenture,11.3,Yes
+STU1118,Computer Science,9.53,93.2,94.4,No,Java & Spring,Cognizant GenC,6.5,Yes
+STU1119,Information Technology,7.35,68.2,71.1,Yes,Java & Spring,Capgemini,11.17,Yes
+STU1120,Computer Science,7.43,75.2,69.2,No,Full Stack Web,TCS Ninja,4.45,Yes
+STU1121,Information Technology,6.92,61.1,57.3,Yes,Java & Spring,TCS Digital,6.53,Yes
+STU1122,Mechanical,8.2,79.9,78.8,No,Data Analytics,Capgemini,6.85,Yes
+STU1123,Information Technology,8.44,79.1,84.0,Yes,Data Analytics,Infosys (Specialist),8.44,Yes
+STU1124,Civil,7.71,75.5,71.6,No,Project Planning,Bosch,5.26,Yes
+STU1125,Computer Science,8.1,78.9,76.5,Yes,Python & DSA,TCS Digital,10.33,Yes
+STU1126,Computer Science,8.4,74.6,81.0,Yes,Full Stack Web,Infosys (Specialist),7.81,Yes
+STU1127,Computer Science,7.47,75.3,63.7,Yes,Cloud & DevOps,Infosys (Specialist),6.6,Yes
+STU1128,Mechanical,8.1,80.4,75.8,Yes,Core Mechanical,Schneider Electric,6.6,Yes
+STU1129,Electronics & Comm.,5.51,55.0,52.0,No,Data Analytics,Not Placed,0.0,No
+STU1130,Computer Science,7.86,74.9,71.7,No,Python & DSA,Accenture,10.66,Yes
+STU1131,Information Technology,8.75,82.4,86.1,Yes,Python & DSA,Google,19.49,Yes
+STU1132,Electronics & Comm.,7.15,69.1,62.9,No,Java Core,Not Placed,0.0,No
+STU1133,Computer Science,6.76,66.0,66.0,No,Full Stack Web,Not Placed,0.0,No
+STU1134,Information Technology,8.27,82.5,74.7,Yes,Data Analytics,Accenture,7.72,Yes
+STU1135,Computer Science,9.01,85.3,77.2,Yes,Machine Learning,Google,21.74,Yes
+STU1136,Information Technology,6.19,56.8,52.0,Yes,Java & Spring,Not Placed,0.0,No
+STU1137,Mechanical,6.88,66.6,61.2,No,Python Basics,Not Placed,0.0,No
+STU1138,Computer Science,5.28,55.0,52.0,Yes,Cloud & DevOps,Not Placed,0.0,No
+STU1139,Electronics & Comm.,8.15,83.1,79.4,No,Data Analytics,TCS Digital,9.35,Yes
+STU1140,Electronics & Comm.,7.31,66.7,70.9,No,C++ & VLSI,Not Placed,0.0,No
+STU1141,Computer Science,8.37,78.3,72.0,Yes,Python & DSA,TCS Digital,10.1,Yes
+STU1142,Computer Science,6.52,60.4,63.1,No,Java & Spring,Not Placed,0.0,No
+STU1143,Electronics & Comm.,7.88,77.9,66.2,Yes,Java Core,Capgemini,8.33,Yes
+STU1144,Electronics & Comm.,6.74,64.2,59.8,Yes,Data Analytics,Accenture,8.9,Yes
+STU1145,Computer Science,7.98,70.5,69.3,No,Full Stack Web,Cognizant GenC,7.59,Yes
+STU1146,Computer Science,6.23,55.0,57.8,Yes,Java & Spring,Not Placed,0.0,No
+STU1147,Mechanical,7.55,76.1,63.1,Yes,CAD & SolidWorks,L&T Infotech,8.36,Yes
+STU1148,Information Technology,6.82,63.7,69.3,Yes,Cloud & DevOps,Accenture,10.58,Yes
+STU1149,Civil,9.21,84.4,86.0,Yes,Python Basics,Infosys (Specialist),7.83,Yes
+STU1150,Computer Science,6.86,65.3,68.8,Yes,Full Stack Web,Infosys (Specialist),6.57,Yes
+STU1151,Computer Science,7.69,76.2,64.8,No,Machine Learning,Accenture,10.15,Yes
+STU1152,Electronics & Comm.,5.2,55.0,52.0,No,C++ & VLSI,Not Placed,0.0,No
+STU1153,Computer Science,8.48,78.2,74.9,Yes,Java & Spring,TCS Digital,7.71,Yes
+STU1154,Information Technology,9.35,83.7,91.1,No,Cloud & DevOps,L&T Infotech,8.79,Yes
+STU1155,Information Technology,5.56,57.6,52.0,No,Python & DSA,Not Placed,0.0,No
+STU1156,Information Technology,6.78,59.2,56.8,No,Data Analytics,Not Placed,0.0,No
+STU1157,Civil,8.77,77.8,83.6,No,Core Civil,Infosys (Specialist),8.0,Yes
+STU1158,Civil,5.96,58.8,52.0,No,Project Planning,Not Placed,0.0,No
+STU1159,Computer Science,8.77,80.7,83.8,Yes,Java & Spring,Cognizant GenC,6.45,Yes
+STU1160,Electronics & Comm.,8.22,80.0,77.9,Yes,Embedded Systems,Cognizant GenC,9.07,Yes
+STU1161,Electronics & Comm.,7.13,70.2,71.9,No,Data Analytics,Not Placed,0.0,No
+STU1162,Computer Science,6.77,58.5,59.6,No,Cloud & DevOps,Not Placed,0.0,No
+STU1163,Civil,6.61,58.4,54.9,No,AutoCAD & Revit,Not Placed,0.0,No
+STU1164,Information Technology,5.65,55.0,54.2,No,Cloud & DevOps,Not Placed,0.0,No
+STU1165,Computer Science,6.93,69.8,67.6,No,Full Stack Web,Not Placed,0.0,No
+STU1166,Electronics & Comm.,8.41,82.5,83.9,No,Java Core,Infosys (Specialist),8.94,Yes
+STU1167,Computer Science,7.85,78.6,70.4,No,Machine Learning,Accenture,10.23,Yes
+STU1168,Mechanical,6.25,55.3,53.3,No,Core Mechanical,Not Placed,0.0,No
+STU1169,Computer Science,6.35,65.5,61.4,No,Python & DSA,Not Placed,0.0,No
+STU1170,Computer Science,7.47,75.8,63.8,Yes,Full Stack Web,Accenture,10.87,Yes
+STU1171,Civil,6.45,59.8,57.7,Yes,Structural Analysis,Not Placed,0.0,No
+STU1172,Computer Science,9.31,90.2,89.7,Yes,Cloud & DevOps,Accenture,9.83,Yes
+STU1173,Computer Science,7.07,61.2,59.2,Yes,Full Stack Web,L&T Infotech,11.17,Yes
+STU1174,Electronics & Comm.,5.71,55.0,52.0,Yes,Data Analytics,Not Placed,0.0,No
+STU1175,Information Technology,9.23,88.8,78.1,Yes,Python & DSA,Cognizant GenC,8.36,Yes
+STU1176,Electronics & Comm.,7.47,72.9,62.9,No,Embedded Systems,TCS Ninja,4.09,Yes
+STU1177,Information Technology,5.36,55.0,52.0,No,Data Analytics,Not Placed,0.0,No
+STU1178,Computer Science,7.12,68.6,69.1,Yes,Cloud & DevOps,L&T Infotech,7.86,Yes
+STU1179,Electronics & Comm.,8.21,83.8,75.2,Yes,IoT & Python,TCS Digital,9.94,Yes
+STU1180,Civil,8.12,80.6,80.1,Yes,Project Planning,L&T Infotech,8.6,Yes
+STU1181,Computer Science,6.86,69.5,56.8,No,Cloud & DevOps,Not Placed,0.0,No
+STU1182,Computer Science,5.84,58.4,59.3,Yes,Full Stack Web,Not Placed,0.0,No
+STU1183,Information Technology,5.2,55.0,52.1,No,Full Stack Web,Not Placed,0.0,No
+STU1184,Information Technology,8.09,74.4,68.9,Yes,Data Analytics,Cognizant GenC,8.45,Yes
+STU1185,Electronics & Comm.,8.0,75.4,76.8,No,Data Analytics,Accenture,7.51,Yes
+STU1186,Civil,7.81,75.8,69.9,No,Structural Analysis,Infosys (Specialist),10.67,Yes
+STU1187,Electronics & Comm.,6.87,62.1,65.2,No,Data Analytics,Not Placed,0.0,No
+STU1188,Computer Science,8.09,75.3,73.6,Yes,Full Stack Web,L&T Infotech,8.02,Yes
+STU1189,Computer Science,6.9,59.9,59.1,No,Java & Spring,TCS Ninja,3.89,Yes
+STU1190,Computer Science,5.2,55.0,53.7,Yes,Python & DSA,Not Placed,0.0,No
+STU1191,Computer Science,8.01,78.7,80.7,No,Cloud & DevOps,Capgemini,7.91,Yes
+STU1192,Computer Science,5.2,55.0,52.0,No,Full Stack Web,Not Placed,0.0,No
+STU1193,Mechanical,6.84,61.4,57.9,No,CAD & SolidWorks,Not Placed,0.0,No
+STU1194,Information Technology,6.29,65.6,52.7,No,Full Stack Web,Not Placed,0.0,No
+STU1195,Computer Science,9.15,87.2,87.9,No,Python & DSA,Infosys (Specialist),11.35,Yes
+STU1196,Electronics & Comm.,5.82,55.0,58.8,No,Data Analytics,Not Placed,0.0,No
+STU1197,Computer Science,8.54,86.1,72.3,Yes,Full Stack Web,Microsoft,15.87,Yes
+STU1198,Electronics & Comm.,5.92,61.0,59.3,No,Data Analytics,Not Placed,0.0,No
+STU1199,Computer Science,6.33,55.3,60.2,No,Java & Spring,Not Placed,0.0,No
+STU1200,Computer Science,6.45,62.5,64.1,No,Python & DSA,Not Placed,0.0,No
+STU1201,Computer Science,9.19,84.5,80.5,Yes,Java & Spring,Accenture,10.89,Yes
+STU1202,Information Technology,6.81,61.6,67.0,Yes,Java & Spring,TCS Digital,9.79,Yes
+STU1203,Computer Science,6.34,58.3,53.3,No,Cloud & DevOps,Not Placed,0.0,No
+STU1204,Electronics & Comm.,9.32,84.1,83.9,No,C++ & VLSI,Infosys (Specialist),8.57,Yes
+STU1205,Computer Science,7.41,67.9,66.6,No,Full Stack Web,Infosys,4.72,Yes
+STU1206,Civil,7.27,65.0,73.8,No,Project Planning,Not Placed,0.0,No
+STU1207,Information Technology,8.33,78.6,73.0,Yes,Full Stack Web,TCS Digital,7.55,Yes
+STU1208,Electronics & Comm.,8.31,76.4,69.6,Yes,IoT & Python,Cognizant GenC,10.0,Yes
+STU1209,Electronics & Comm.,6.66,64.1,57.0,No,Embedded Systems,Not Placed,0.0,No
+STU1210,Information Technology,6.08,61.7,57.7,No,Python & DSA,Not Placed,0.0,No
+STU1211,Civil,5.86,55.0,60.1,No,Structural Analysis,Not Placed,0.0,No
+STU1212,Electronics & Comm.,7.14,62.3,68.7,No,Data Analytics,Not Placed,0.0,No
+STU1213,Information Technology,6.36,58.4,60.1,Yes,Cloud & DevOps,Not Placed,0.0,No
+STU1214,Electronics & Comm.,7.1,71.4,65.8,No,C++ & VLSI,Not Placed,0.0,No
+STU1215,Information Technology,8.38,74.9,75.9,Yes,Full Stack Web,L&T Infotech,8.61,Yes
+STU1216,Civil,7.79,74.9,74.8,No,Structural Analysis,Not Placed,0.0,No
+STU1217,Information Technology,7.06,65.6,69.5,Yes,Cloud & DevOps,Capgemini,6.6,Yes
+STU1218,Computer Science,7.15,70.2,64.5,No,Machine Learning,TCS Ninja,4.56,Yes
+STU1219,Information Technology,5.2,55.0,52.0,No,Java & Spring,Not Placed,0.0,No
+STU1220,Civil,6.84,68.2,66.0,No,Project Planning,Not Placed,0.0,No
+STU1221,Electronics & Comm.,7.69,73.8,66.9,No,C++ & VLSI,Cognizant GenC,9.88,Yes
+STU1222,Electronics & Comm.,6.15,59.2,62.7,No,C++ & VLSI,Not Placed,0.0,No
+STU1223,Computer Science,6.92,71.5,68.1,No,Full Stack Web,Not Placed,0.0,No
+STU1224,Computer Science,6.99,64.6,63.5,Yes,Machine Learning,Infosys (Specialist),7.11,Yes
+STU1225,Information Technology,8.95,80.7,84.0,Yes,Python & DSA,Microsoft,19.66,Yes
+STU1226,Computer Science,5.9,55.0,58.1,Yes,Java & Spring,Not Placed,0.0,No
+STU1227,Civil,8.27,83.1,75.7,No,Project Planning,L&T Construction,8.13,Yes
+STU1228,Computer Science,6.18,61.4,63.0,No,Full Stack Web,Not Placed,0.0,No
+STU1229,Information Technology,8.74,77.5,85.1,Yes,Python & DSA,Cognizant GenC,10.82,Yes
+STU1230,Computer Science,6.92,71.5,60.6,No,Java & Spring,Not Placed,0.0,No
+STU1231,Information Technology,7.85,74.6,69.0,No,Data Analytics,Infosys (Specialist),10.02,Yes
+STU1232,Electronics & Comm.,7.36,68.0,64.8,No,IoT & Python,Not Placed,0.0,No
+STU1233,Computer Science,8.85,88.0,81.6,Yes,Python & DSA,Microsoft,17.73,Yes
+STU1234,Civil,8.48,79.9,74.8,Yes,Core Civil,TCS Digital,7.44,Yes
+STU1235,Information Technology,7.54,71.2,64.6,Yes,Data Analytics,Capgemini,6.65,Yes
+STU1236,Civil,6.98,62.9,59.1,Yes,Core Civil,Schneider Electric,7.53,Yes
+STU1237,Mechanical,8.25,80.5,77.2,No,Automation,Capgemini,7.99,Yes
+STU1238,Civil,8.97,90.0,78.4,Yes,Structural Analysis,Adobe,13.39,Yes
+STU1239,Computer Science,6.98,66.4,68.5,Yes,Java & Spring,Accenture,8.51,Yes
+STU1240,Computer Science,5.46,55.0,52.0,No,Full Stack Web,Not Placed,0.0,No
+STU1241,Electronics & Comm.,8.37,74.3,83.9,No,Embedded Systems,Accenture,6.17,Yes
+STU1242,Information Technology,7.62,78.1,72.1,Yes,Java & Spring,Accenture,10.78,Yes
+STU1243,Civil,6.22,61.0,57.8,No,Project Planning,Not Placed,0.0,No
+STU1244,Computer Science,8.5,76.3,84.9,No,Python & DSA,Cognizant GenC,8.55,Yes
+STU1245,Electronics & Comm.,6.45,58.0,58.8,Yes,IoT & Python,Not Placed,0.0,No
+STU1246,Civil,7.32,73.3,66.2,No,AutoCAD & Revit,Not Placed,0.0,No
+STU1247,Computer Science,8.75,82.5,82.9,No,Full Stack Web,Capgemini,6.24,Yes
+STU1248,Information Technology,5.61,56.6,52.0,No,Python & DSA,Not Placed,0.0,No
+STU1249,Mechanical,7.29,70.4,69.5,No,Core Mechanical,Not Placed,0.0,No
+STU1250,Mechanical,8.73,81.9,77.2,No,Automation,Infosys (Specialist),9.44,Yes
+STU1251,Information Technology,5.2,55.0,52.0,No,Data Analytics,Not Placed,0.0,No
+STU1252,Electronics & Comm.,6.62,59.1,61.4,Yes,IoT & Python,Not Placed,0.0,No
+STU1253,Computer Science,6.88,70.3,64.2,No,Java & Spring,Not Placed,0.0,No
+STU1254,Information Technology,6.76,62.2,56.3,Yes,Data Analytics,TCS Digital,8.95,Yes
+STU1255,Mechanical,8.41,81.2,70.9,Yes,Automation,L&T Infotech,7.19,Yes
+STU1256,Computer Science,8.18,82.6,71.2,Yes,Python & DSA,Capgemini,11.5,Yes
+STU1257,Information Technology,7.47,67.4,74.5,No,Data Analytics,Tech Mahindra,4.2,Yes
+STU1258,Electronics & Comm.,7.03,71.4,64.2,No,Java Core,Not Placed,0.0,No
+STU1259,Electronics & Comm.,7.08,65.0,58.8,No,IoT & Python,Not Placed,0.0,No
+STU1260,Computer Science,6.02,59.8,52.5,Yes,Full Stack Web,Not Placed,0.0,No
+STU1261,Information Technology,8.05,78.3,76.6,Yes,Java & Spring,Capgemini,9.53,Yes
+STU1262,Information Technology,8.36,75.5,80.0,Yes,Cloud & DevOps,Capgemini,11.26,Yes
+STU1263,Information Technology,7.63,76.3,63.9,Yes,Python & DSA,Capgemini,7.27,Yes
+STU1264,Electronics & Comm.,8.7,81.1,81.7,No,Data Analytics,Accenture,9.63,Yes
+STU1265,Computer Science,6.29,55.0,61.0,No,Cloud & DevOps,Not Placed,0.0,No
+STU1266,Computer Science,8.04,80.1,79.7,Yes,Python & DSA,L&T Infotech,6.82,Yes
+STU1267,Computer Science,5.41,55.0,52.0,Yes,Machine Learning,Not Placed,0.0,No
+STU1268,Information Technology,7.47,68.6,73.3,Yes,Full Stack Web,TCS Digital,8.23,Yes
+STU1269,Information Technology,5.85,58.0,52.0,No,Data Analytics,Not Placed,0.0,No
+STU1270,Information Technology,7.71,73.6,64.5,Yes,Cloud & DevOps,Accenture,7.49,Yes
+STU1271,Civil,7.04,67.4,67.0,Yes,Project Planning,Tata Motors,6.85,Yes
+STU1272,Electronics & Comm.,7.14,62.8,61.0,Yes,Java Core,Capgemini,10.93,Yes
+STU1273,Information Technology,7.42,76.4,71.4,No,Data Analytics,TCS Ninja,3.65,Yes
+STU1274,Computer Science,8.73,84.3,81.7,No,Cloud & DevOps,TCS Digital,9.49,Yes
+STU1275,Mechanical,6.65,63.8,59.4,Yes,Automation,Not Placed,0.0,No
+STU1276,Electronics & Comm.,8.71,86.3,83.1,Yes,IoT & Python,Capgemini,6.85,Yes
+STU1277,Information Technology,7.09,72.7,64.5,No,Full Stack Web,Not Placed,0.0,No
+STU1278,Computer Science,7.86,75.3,71.0,Yes,Cloud & DevOps,L&T Infotech,6.51,Yes
+STU1279,Electronics & Comm.,6.91,63.1,62.0,Yes,Data Analytics,Infosys (Specialist),9.15,Yes
+STU1280,Computer Science,6.96,63.7,63.9,Yes,Machine Learning,Cognizant GenC,8.32,Yes
+STU1281,Information Technology,8.14,74.3,76.6,Yes,Python & DSA,Accenture,6.59,Yes
+STU1282,Computer Science,8.34,80.7,81.0,Yes,Cloud & DevOps,Accenture,10.49,Yes
+STU1283,Mechanical,7.99,73.8,79.8,Yes,Core Mechanical,Schneider Electric,8.37,Yes
+STU1284,Computer Science,6.97,67.1,60.5,Yes,Machine Learning,Cognizant GenC,6.63,Yes
+STU1285,Information Technology,6.24,61.5,58.1,No,Java & Spring,Not Placed,0.0,No
+STU1286,Civil,7.89,78.9,66.6,No,Python Basics,Infosys (Specialist),9.48,Yes
+STU1287,Computer Science,6.45,64.7,53.4,No,Machine Learning,Not Placed,0.0,No
+STU1288,Electronics & Comm.,5.2,55.0,52.0,Yes,C++ & VLSI,Not Placed,0.0,No
+STU1289,Electronics & Comm.,7.96,80.6,67.8,Yes,C++ & VLSI,Infosys (Specialist),9.56,Yes
+STU1290,Computer Science,9.05,84.8,86.8,No,Machine Learning,TCS Digital,6.06,Yes
+STU1291,Computer Science,6.07,58.6,56.9,Yes,Machine Learning,Not Placed,0.0,No
+STU1292,Information Technology,6.68,59.3,68.4,Yes,Data Analytics,Accenture,11.06,Yes
+STU1293,Computer Science,8.27,76.7,73.9,Yes,Java & Spring,Accenture,7.92,Yes
+STU1294,Computer Science,7.19,63.1,59.8,No,Python & DSA,Not Placed,0.0,No
+STU1295,Mechanical,6.41,56.9,65.7,Yes,Python Basics,Not Placed,0.0,No
+STU1296,Information Technology,6.83,64.4,67.0,No,Python & DSA,Not Placed,0.0,No
+STU1297,Electronics & Comm.,7.16,69.4,61.6,No,Java Core,Not Placed,0.0,No
+STU1298,Computer Science,7.59,74.6,74.0,Yes,Java & Spring,Infosys (Specialist),8.01,Yes
+STU1299,Computer Science,8.64,82.0,86.0,Yes,Machine Learning,L&T Infotech,6.63,Yes
+STU1300,Information Technology,6.75,66.2,66.3,No,Cloud & DevOps,Not Placed,0.0,No
+STU1301,Computer Science,7.77,71.5,67.0,Yes,Java & Spring,Accenture,8.3,Yes
+STU1302,Computer Science,6.87,66.9,65.9,No,Full Stack Web,Not Placed,0.0,No
+STU1303,Information Technology,6.8,62.4,61.9,Yes,Data Analytics,TCS Digital,8.67,Yes
+STU1304,Computer Science,6.35,62.2,57.1,Yes,Machine Learning,Accenture,6.92,Yes
+STU1305,Information Technology,7.62,66.8,66.3,Yes,Java & Spring,L&T Infotech,10.08,Yes
+STU1306,Electronics & Comm.,6.89,60.8,67.2,No,C++ & VLSI,Not Placed,0.0,No
+STU1307,Information Technology,7.48,70.4,64.9,Yes,Python & DSA,Cognizant GenC,10.81,Yes
+STU1308,Computer Science,7.22,63.6,71.5,Yes,Full Stack Web,Infosys (Specialist),10.46,Yes
+STU1309,Electronics & Comm.,6.38,62.2,54.0,Yes,IoT & Python,Not Placed,0.0,No
+STU1310,Mechanical,7.89,75.3,73.9,Yes,Core Mechanical,Bosch,8.31,Yes
+STU1311,Information Technology,9.04,81.5,86.7,Yes,Full Stack Web,Capgemini,6.7,Yes
+STU1312,Mechanical,7.4,74.2,71.7,No,Data Analytics,Bosch,7.01,Yes
+STU1313,Information Technology,9.14,90.1,82.7,Yes,Data Analytics,Accenture,7.8,Yes
+STU1314,Computer Science,7.67,75.6,70.0,Yes,Cloud & DevOps,TCS Digital,10.38,Yes
+STU1315,Information Technology,9.41,89.3,84.1,Yes,Cloud & DevOps,L&T Infotech,10.69,Yes
+STU1316,Mechanical,8.87,78.8,83.4,No,CAD & SolidWorks,Tata Motors,6.27,Yes
+STU1317,Computer Science,8.11,79.3,69.5,Yes,Full Stack Web,Cognizant GenC,6.51,Yes
+STU1318,Information Technology,8.81,85.5,74.8,Yes,Python & DSA,TCS Digital,9.87,Yes
+STU1319,Computer Science,6.82,61.5,65.3,Yes,Cloud & DevOps,TCS Digital,11.43,Yes
+STU1320,Information Technology,7.68,71.6,73.9,Yes,Data Analytics,Cognizant GenC,10.85,Yes
+STU1321,Computer Science,7.67,68.5,77.5,Yes,Java & Spring,L&T Infotech,6.05,Yes
+STU1322,Electronics & Comm.,5.76,56.3,52.0,No,Java Core,Not Placed,0.0,No
+STU1323,Mechanical,7.83,77.4,73.3,Yes,Data Analytics,Tata Motors,5.49,Yes
+STU1324,Electronics & Comm.,7.42,73.1,65.3,No,Embedded Systems,Wipro,3.81,Yes
+STU1325,Electronics & Comm.,7.81,75.9,75.8,No,IoT & Python,Accenture,8.12,Yes
+STU1326,Computer Science,7.13,72.4,58.8,Yes,Cloud & DevOps,Infosys (Specialist),8.13,Yes
+STU1327,Mechanical,6.18,55.0,56.5,No,CAD & SolidWorks,Not Placed,0.0,No
+STU1328,Computer Science,8.18,72.2,69.1,Yes,Java & Spring,Cognizant GenC,9.46,Yes
+STU1329,Information Technology,5.92,55.0,55.0,No,Data Analytics,Not Placed,0.0,No
+STU1330,Computer Science,9.58,96.7,83.3,Yes,Java & Spring,Capgemini,9.75,Yes
+STU1331,Computer Science,6.84,69.1,56.7,Yes,Machine Learning,TCS Digital,8.49,Yes
+STU1332,Electronics & Comm.,6.74,66.9,56.7,No,Embedded Systems,Not Placed,0.0,No
+STU1333,Computer Science,8.68,85.9,82.9,Yes,Full Stack Web,Cognizant GenC,10.03,Yes
+STU1334,Computer Science,8.2,77.1,75.8,Yes,Java & Spring,Capgemini,6.42,Yes
+STU1335,Information Technology,6.57,63.2,58.6,Yes,Full Stack Web,L&T Infotech,9.71,Yes
+STU1336,Computer Science,7.4,74.6,61.3,Yes,Cloud & DevOps,Accenture,11.06,Yes
+STU1337,Computer Science,7.69,76.7,73.7,Yes,Full Stack Web,Cognizant GenC,7.37,Yes
+STU1338,Civil,6.52,62.8,54.7,No,AutoCAD & Revit,Not Placed,0.0,No
+STU1339,Computer Science,8.44,85.6,71.6,Yes,Cloud & DevOps,Cognizant GenC,7.8,Yes
+STU1340,Information Technology,8.14,78.1,72.1,Yes,Java & Spring,Cognizant GenC,9.25,Yes
+STU1341,Information Technology,7.5,76.1,72.6,Yes,Full Stack Web,Accenture,6.13,Yes
+STU1342,Information Technology,6.29,55.0,55.6,No,Java & Spring,Not Placed,0.0,No
+STU1343,Mechanical,7.33,70.0,63.8,No,CAD & SolidWorks,Not Placed,0.0,No
+STU1344,Civil,7.96,70.1,69.5,No,Python Basics,Cognizant GenC,8.52,Yes
+STU1345,Electronics & Comm.,6.26,61.1,56.1,No,Embedded Systems,Not Placed,0.0,No
+STU1346,Information Technology,8.19,74.9,72.8,No,Data Analytics,Cognizant GenC,8.49,Yes
+STU1347,Computer Science,7.96,78.9,67.8,Yes,Machine Learning,Accenture,7.73,Yes
+STU1348,Computer Science,6.21,58.4,56.6,No,Python & DSA,Not Placed,0.0,No
+STU1349,Computer Science,6.6,65.1,54.3,No,Cloud & DevOps,Not Placed,0.0,No
+STU1350,Computer Science,6.7,62.4,55.3,Yes,Full Stack Web,Not Placed,0.0,No
+STU1351,Computer Science,6.4,63.8,55.4,Yes,Full Stack Web,TCS Digital,6.07,Yes
+STU1352,Mechanical,7.98,79.7,71.6,No,CAD & SolidWorks,Cognizant GenC,11.05,Yes
+STU1353,Computer Science,8.13,79.0,79.1,Yes,Cloud & DevOps,TCS Digital,6.23,Yes
+STU1354,Information Technology,8.11,80.9,73.1,Yes,Java & Spring,Infosys (Specialist),7.95,Yes
+STU1355,Civil,7.21,64.3,67.9,No,Project Planning,Not Placed,0.0,No
+STU1356,Information Technology,8.33,74.2,75.0,Yes,Cloud & DevOps,Infosys (Specialist),9.47,Yes
+STU1357,Mechanical,8.32,82.4,74.6,Yes,Data Analytics,Bosch,6.05,Yes
+STU1358,Computer Science,7.08,72.0,69.0,Yes,Machine Learning,L&T Infotech,7.97,Yes
+STU1359,Electronics & Comm.,7.47,67.9,65.1,No,Embedded Systems,Not Placed,0.0,No
+STU1360,Electronics & Comm.,8.76,89.0,79.0,No,IoT & Python,Infosys (Specialist),7.3,Yes
+STU1361,Computer Science,7.32,70.6,70.2,Yes,Java & Spring,L&T Infotech,6.78,Yes
+STU1362,Civil,8.44,85.8,78.2,Yes,AutoCAD & Revit,Tata Motors,6.91,Yes
+STU1363,Computer Science,6.42,62.4,63.4,Yes,Full Stack Web,Cognizant GenC,6.33,Yes
+STU1364,Computer Science,7.23,64.0,66.9,Yes,Python & DSA,Cognizant GenC,9.87,Yes
+STU1365,Electronics & Comm.,6.55,60.1,66.9,No,Java Core,Not Placed,0.0,No
+STU1366,Mechanical,8.94,81.0,88.8,No,Automation,Infosys (Specialist),9.66,Yes
+STU1367,Mechanical,6.11,55.6,52.0,Yes,Automation,Not Placed,0.0,No
+STU1368,Information Technology,9.9,88.4,92.5,No,Cloud & DevOps,Infosys (Specialist),9.52,Yes
+STU1369,Computer Science,6.41,55.8,56.8,Yes,Python & DSA,Not Placed,0.0,No
+STU1370,Mechanical,6.54,60.2,53.3,Yes,CAD & SolidWorks,Not Placed,0.0,No
+STU1371,Information Technology,7.8,68.7,70.9,Yes,Python & DSA,Accenture,8.71,Yes
+STU1372,Information Technology,6.91,65.4,68.7,No,Python & DSA,Not Placed,0.0,No
+STU1373,Computer Science,9.3,85.9,83.0,No,Python & DSA,Cognizant GenC,6.94,Yes
+STU1374,Information Technology,7.24,73.6,60.9,No,Cloud & DevOps,Not Placed,0.0,No
+STU1375,Mechanical,7.07,69.0,66.5,No,CAD & SolidWorks,Not Placed,0.0,No
+STU1376,Computer Science,7.6,74.6,73.0,Yes,Cloud & DevOps,Capgemini,7.55,Yes
+STU1377,Computer Science,8.76,87.3,75.7,Yes,Machine Learning,Adobe,14.4,Yes
+STU1378,Computer Science,7.84,69.5,76.9,Yes,Machine Learning,Accenture,8.69,Yes
+STU1379,Electronics & Comm.,8.56,77.5,84.1,Yes,Java Core,Adobe,17.58,Yes
+STU1380,Computer Science,7.35,72.9,70.0,Yes,Cloud & DevOps,L&T Infotech,8.28,Yes
+STU1381,Electronics & Comm.,7.45,69.4,68.9,No,Java Core,Not Placed,0.0,No
+STU1382,Electronics & Comm.,7.48,69.8,73.8,Yes,Data Analytics,L&T Infotech,10.4,Yes
+STU1383,Electronics & Comm.,6.99,69.5,59.7,No,IoT & Python,Not Placed,0.0,No
+STU1384,Mechanical,8.21,83.9,74.6,No,Python Basics,Cognizant GenC,7.76,Yes
+STU1385,Electronics & Comm.,7.57,72.6,70.4,No,Data Analytics,Not Placed,0.0,No
+STU1386,Information Technology,8.75,84.6,80.8,Yes,Java & Spring,Amazon,23.1,Yes
+STU1387,Information Technology,8.13,77.7,72.6,Yes,Java & Spring,Capgemini,8.67,Yes
+STU1388,Electronics & Comm.,8.26,74.2,77.5,No,Embedded Systems,Accenture,10.89,Yes
+STU1389,Information Technology,7.54,76.7,74.9,Yes,Data Analytics,Cognizant GenC,7.54,Yes
+STU1390,Information Technology,7.23,73.1,61.4,No,Java & Spring,Not Placed,0.0,No
+STU1391,Mechanical,6.63,64.2,55.2,No,Data Analytics,Not Placed,0.0,No
+STU1392,Electronics & Comm.,7.53,75.4,69.5,Yes,C++ & VLSI,Capgemini,8.79,Yes
+STU1393,Computer Science,8.74,77.4,76.1,No,Python & DSA,Infosys (Specialist),6.18,Yes
+STU1394,Computer Science,6.93,64.3,63.3,Yes,Python & DSA,Capgemini,6.17,Yes
+STU1395,Information Technology,6.83,69.3,64.1,Yes,Python & DSA,Cognizant GenC,10.12,Yes
+STU1396,Electronics & Comm.,7.16,64.0,66.9,No,IoT & Python,Not Placed,0.0,No
+STU1397,Electronics & Comm.,7.02,65.6,57.9,No,Embedded Systems,Not Placed,0.0,No
+STU1398,Information Technology,7.86,78.3,68.4,Yes,Data Analytics,Capgemini,11.32,Yes
+STU1399,Electronics & Comm.,6.45,59.5,55.9,No,Data Analytics,Not Placed,0.0,No
+STU1400,Mechanical,6.99,66.5,66.6,No,Core Mechanical,Not Placed,0.0,No

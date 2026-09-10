@@ -1,0 +1,6 @@
+{
+  "name": "College Placement Intelligence Dashboard",
+  "description": "A beginner-friendly Machine Learning dashboard for college placement prediction using Logistic Regression, interactive analytics, and student evaluation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
